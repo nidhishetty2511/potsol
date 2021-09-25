@@ -25,5 +25,6 @@ In order to have a look at the code files and understand the working, simply dow
 You should have xampp installed into your system that will help you to run the files locally.<br>
 Place the folder in the "HTDocs" folder located under the "XAMMP" folder on your C: drive. <br>
 Open Xampp control panel and hit the start button besides Apache and MySQL.<br>
-Then click on the admin button besides the MySQL heading and import the database file.<br>
-Open your browser and run the file as "localhost/filename"
+Then click on the admin button besides the MySQL heading and import the database file - "leaderex_db.sql" <br>
+Open your browser and run the file as "localhost/potsol-main/admin" <br>
+The username is admin and the password is 123
